@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Citation **Je n'ai pas d'idées** en gras et *ce mot* en italique. 
 Use the left arrow to go back!
